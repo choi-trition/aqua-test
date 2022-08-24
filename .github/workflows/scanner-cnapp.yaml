@@ -1,4 +1,4 @@
-name: scanner
+name: scanner-cnapp
 on:
   push:
     branches:
